@@ -9,13 +9,12 @@
 Voice2Sign is a real-time **Indian Sign Language (ISL) translation system** that converts spoken voice into animated ISL signs.
 It is designed to help bridge communication between hearing individuals and people with hearing impairments.
 
-This is the **final upgraded version** with:
+
 
 * 🎤 Auto voice endpoint detection
 * 🖼️ Real-time GIF-based ISL sign rendering
 * 🔠 Alphabet fallback for unknown words
 * 🔍 Fuzzy matching & mapping support
-* 🎚️ Adjustable RMS thresholds
 * 🔊 Manual microphone selection
 * 📈 Live waveform visualization
 * 🛠️ Mic tester & configuration panel
@@ -150,11 +149,11 @@ You can fine-tune:
 
 You can easily **expand the sign vocabulary**.
 
-### ✔ Option 1 — Download signs from **talkingsigns.co.in**
+### ✔ Option 1 — Download signs from **talkinghands**
 
 Visit:
 
-👉 [https://talkingsigns.co.in](https://talkingsigns.co.in)
+👉 [https://talkinghands.co.in/](https://talkinghands.co.in/)
 
 Download ANY ISL sign GIF and place it inside:
 
@@ -239,7 +238,7 @@ pip install vosk
 ### 2. Run:
 
 ```
-python isl_app_final.py
+python main.py
 ```
 
 ---
@@ -273,17 +272,9 @@ Developed as an assistive technology tool to support communication with the deaf
 For issues, contact:
 
 **Voice2Sign Development Team**
-(or your name here)
+(📧rajubandam694@gmail.com)
 
 Or create an issue on GitHub.
 
 ---
 
-If you want, I can also create:
-
-✔ A polished **GitHub landing page**
-✔ A **project logo**
-✔ A **demo video script**
-✔ A **PowerPoint for presentation**
-
-Just tell me **what you want next**.
