@@ -1,6 +1,4 @@
-Below is a **clean, professional README.md** for your ISL Voice-to-Sign Translator project, including the note you requested about adding extra signs from **talkingsigns.co.in** OR creating custom GIFs.
 
-You can directly copy–paste this as `README.md` into your GitHub/project folder.
 
 ---
 
