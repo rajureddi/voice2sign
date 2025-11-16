@@ -1,0 +1,7 @@
+numpy
+sounddevice
+matplotlib
+Pillow
+SpeechRecognition
+rapidfuzz
+tk
