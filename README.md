@@ -36,7 +36,11 @@ It is designed to help bridge communication between hearing individuals and peop
 ---
 ## DEMO VIDEO
 
-https://github.com/user-attachments/assets/1eab5f8c-80d0-498c-9ee5-3cdb1a2eb191
+
+https://github.com/user-attachments/assets/c95ada1c-314f-4032-8803-2f5f36c9bae0
+
+
+
 ---
 ### ✔ **2. Auto Endpoint Detection**
 
