@@ -35,7 +35,8 @@ It is designed to help bridge communication between hearing individuals and peop
 
 ---
 ## DEMO VIDEO
-
+[video.mp4]
+---
 ### ✔ **2. Auto Endpoint Detection**
 
 No need to press buttons while speaking.
