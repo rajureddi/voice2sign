@@ -35,7 +35,7 @@ It is designed to help bridge communication between hearing individuals and peop
 
 ---
 ## DEMO VIDEO
-[[video.mp4](https://raw.githubusercontent.com/rajureddi/voice2sign/main/video.mp4]
+[[video.mp4](https://raw.githubusercontent.com/rajureddi/voice2sign/video.mp4]
 ---
 ### ✔ **2. Auto Endpoint Detection**
 
