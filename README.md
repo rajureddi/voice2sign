@@ -35,14 +35,13 @@ It is designed to help bridge communication between hearing individuals and peop
 
 ---
 ## DEMO VIDEO
-[[DEMO.mp4](https://github.com/user-attachments/assets/1eab5f8c-80d0-498c-9ee5-3cdb1a2eb191
-]
+
+https://github.com/user-attachments/assets/1eab5f8c-80d0-498c-9ee5-3cdb1a2eb191
 ---
 ### ✔ **2. Auto Endpoint Detection**
 
 No need to press but
 
-https://github.com/user-attachments/assets/1eab5f8c-80d0-498c-9ee5-3cdb1a2eb191
 
 tons while speaking.
 
