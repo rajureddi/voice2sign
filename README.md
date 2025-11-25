@@ -34,6 +34,7 @@ It is designed to help bridge communication between hearing individuals and peop
 * If not → displays each letter as handshape images
 
 ---
+## DEMO VIDEO
 
 ### ✔ **2. Auto Endpoint Detection**
 
